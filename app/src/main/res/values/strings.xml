@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="email_address">Email Address</string>
+    <string name="check_me_out">Check me out</string>
+    <string name="button">Button</string>
+    <string-array name="options">
+        <item>Options</item>
+        <item>Delete</item>
+        <item>Edit</item>
+        <item>Save</item>
+    </string-array>
+</resources>
